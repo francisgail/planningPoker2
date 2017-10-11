@@ -1,0 +1,15 @@
+<nav class="navbar navbar-inner navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header" style="">
+      <a class="navbar-brand" routerLink="/home">
+        <img src="/assets/images/people.png" alt="logo" />
+        <span class="app-title">Planning Poker</span>
+      </a>
+      <span class="navbar-collapse" [attr.data-collapse]="isCollapsed">
+        <ul class="nav navbar-nav nav-pills navBarPadding">
+          <li routerLinkActive="active"><a routerLink="/create">Create Game</a></li>
+        </ul>
+      </span>
+    </div>
+  </div>
+</nav>

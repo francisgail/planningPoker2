@@ -1,0 +1,38 @@
+<div class="view">
+  <div class="container">
+    <header>
+      <h3><span class="glyphicon glyphicon-"></span>Create Game</h3>
+    </header>
+    <br />
+    <form class="login-form" novalidate>
+      <div class="login">
+        <div class="row">
+          <div class="col-md-2">
+            Game Name:
+          </div>
+          <div class="col-md-10">
+            <input type="Tag" name="Tab" class="form-control" formControlName="Tag" />
+          </div>
+        </div>
+        <br />
+        <div class="row">
+          <div class="col-md-2">
+            Moderator:
+          </div>
+          <div class="col-md-10">
+            <input type="Moderator" name="Moderator" class="form-control" formControlName="Moderator" />
+          </div>
+        </div>
+        <br />
+        <div class="row">
+          <div class="col-md-12">
+            <!--<button type="submit" class="btn btn-success">Create and Start</button>-->
+            <a [routerLink]="['/game']">Create and Start</a>
+          </div>
+        </div>
+        <br />
+      </div>
+    </form>
+
+  </div>
+</div>

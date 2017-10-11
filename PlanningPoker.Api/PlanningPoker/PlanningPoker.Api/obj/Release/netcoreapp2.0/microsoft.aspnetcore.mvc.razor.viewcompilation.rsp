@@ -1,0 +1,5 @@
+C:\PlanningPoker\PlanningPoker.Api
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=PlanningPoker.Api
+--content-root=C:\PlanningPoker\PlanningPoker.Api
+--file=

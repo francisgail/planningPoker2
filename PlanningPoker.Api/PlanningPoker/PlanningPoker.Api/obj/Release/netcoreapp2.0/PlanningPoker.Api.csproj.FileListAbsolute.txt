@@ -1,0 +1,30 @@
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.deps.json
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.runtimeconfig.json
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.runtimeconfig.dev.json
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.pdb
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Library.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Library.pdb
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.pdb
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.csprojResolveAssemblyReference.cache
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.csproj.CoreCompileInputs.cache
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.AssemblyInfoInputs.cache
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.AssemblyInfo.cs
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.pdb
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.deps.json
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.runtimeconfig.json
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.runtimeconfig.dev.json
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.dll
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Api.pdb
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.dll
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Library.dll
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.Library.pdb
+C:\PlanningPoker\PlanningPoker.Api\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.pdb
+C:\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.csprojResolveAssemblyReference.cache
+C:\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.csproj.CoreCompileInputs.cache
+C:\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.AssemblyInfoInputs.cache
+C:\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.AssemblyInfo.cs
+C:\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.dll
+C:\PlanningPoker\PlanningPoker.Api\obj\Release\netcoreapp2.0\PlanningPoker.Api.pdb

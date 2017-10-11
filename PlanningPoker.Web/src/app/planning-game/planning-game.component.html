@@ -1,0 +1,320 @@
+<div class="game-container col-md-9">
+  <div class="navbar">
+    <ul class="nav navbar-nav">
+      <li class="toolbar-item">
+        <a routerLink="reveal" routerLinkActive="active">
+          <span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;Reveal
+        </a>
+      </li>
+      <li class="toolbar-item">
+        <a routerLink="newstory" routerLinkActive="active">
+          <span class="glyphicon glyphicon-list-alt"></span>&nbsp;&nbsp;New Story
+        </a>
+      </li>
+      <li class="toolbar-item">
+        <a routerLink="endgame" routerLinkActive="active">
+          <span class="glyphicon glyphicon-off"></span>&nbsp;&nbsp;End
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="game-area" style="">
+    <!--<div class="panel foreground-panel" tabindex="-1" style="/* margin-left: auto; */margin-top: 58px;width: 1114px;height: 650px;">
+      <div class="table-seats-container">
+      </div>
+    </div>-->
+    <div class="panel background-table" style="/* margin-left: calc(100% - 500px); margin-top: 58px;*/width: 1114px;height: 650px;">
+      <div class="table-shadow" tabindex="-1" style="background-image: url(&quot;/assets/images/table-shadow.png&quot;);"></div>
+      <div class="background-table-felt" style="background-image: url(&quot;/assets/images/poker-table-inner.png&quot;);"></div>
+      <div class="background-table-border" style="background-image: url(&quot;/assets/images/poker-table-outer.png&quot;);"></div>
+      <div class="seat-container seat-0" style="width: 9.08203%; height: 15.8863%; left: 6.10352%; top: 37.3746%;">
+        <a class="white" href="#">
+          <img class="card-image" style="width: 100%; height: 100%" src="/assets/images/male.png">
+        </a>
+        <div class="participant-name"><span>Francis</span></div>
+      </div>
+      <div class="seat-container seat-1" style="width: 9.08203%; height: 15.8863%; left: 23.7793%; top: 1.4214%;">
+        <a class="white" href="#">
+          <img class="card-image" style="width: 100%; height: 100%" src="/assets/images/male.png">
+        </a>
+        <div class="participant-name"><span>Harold</span></div>
+      </div>
+      <div class="seat-container seat-3" style="width: 9.08203%; height: 15.8863%; left: 68.7012%; top: 1.4214%;">
+        <a class="white" href="#">
+          <img class="card-image" style="width: 100%; height: 100%" src="/assets/images/male.png">
+        </a>
+        <div class="participant-name"><span>Francis4</span></div>
+      </div>
+      <div class="seat-container seat-4" style="width: 9.08203%; height: 15.8863%; left: 84.9121%; top: 37.3746%;">
+        <a class="white" href="#">
+          <img class="card-image" style="width: 100%; height: 100%" src="/assets/images/male.png">
+        </a>
+        <div class="participant-name"><span>Francis5</span></div>
+      </div>
+      <div class="seat-container seat-5" style="width: 9.08203%; height: 15.8863%; left: 68.7012%; top: 71.99%;">
+        <a class="white" href="#">
+          <img class="card-image" style="width: 100%; height: 100%" src="/assets/images/male.png">
+        </a>
+        <div class="participant-name"><span>Francis</span></div>
+      </div>
+      <div class="seat-container seat-7" style="width: 9.08203%; height: 15.8863%; left: 23.7793%; top: 71.99%;">
+        <a class="white" href="#">
+          <img class="card-image" style="width: 100%; height: 100%" src="/assets/images/male.png">
+        </a>
+        <div class="participant-name"><span>Francis1</span></div>
+      </div>
+
+      <div class="seat-container seat-0" style="width: 80px;
+        height: 112px;
+        left: 15%;
+        top: 36.3746%;
+        background: darkblue;">
+      </div>
+
+      <div class="seat-container seat-0" style="width: 80px;
+        height: 112px;
+        left: 24.6%;
+        top: 17.5%;
+        background: darkblue;">
+      </div>
+
+      <div class="seat-container seat-0" style="width: 80px;
+        height: 112px;
+        left: 69.6%;
+        top: 17.5%;
+        background: darkblue;">
+      </div>
+
+      <div class="seat-container seat-0" style="width: 80px;
+        height: 112px;
+        left: 77.6%;
+        top: 36.3746%;
+        background: darkblue;">
+      </div>
+
+      <div class="seat-container seat-0" style="width: 80px;
+        height: 112px;
+        left: 69.6%;
+        top: 54.3746%;
+        background: darkblue;">
+      </div>
+
+      <div class="seat-container seat-0" style="width: 80px;
+        height: 112px;
+        left: 24.6%;
+        top: 54.3746%;
+        background: darkblue;">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="players-cards-container">
+    <div class="player-cards-wrapper">
+      <div class="card-rig card-in-hand" style="left: 50px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-blue">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>0</span></div>
+                <div class="text-center player-vote"><span>0</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 125px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-blue">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>1</span></div>
+                <div class="text-center player-vote"><span>1</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 200px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-blue">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>2</span></div>
+                <div class="text-center player-vote"><span>2</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 275px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-blue">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>3</span></div>
+                <div class="text-center player-vote"><span>3</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 350px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-blue">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>5</span></div>
+                <div class="text-center player-vote"><span>5</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 425px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-blue">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>8</span></div>
+                <div class="text-center player-vote"><span>8</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 500px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-green">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>13</span></div>
+                <div class="text-center player-vote"><span>13</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 575px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-green">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>21</span></div>
+                <div class="text-center player-vote"><span>21</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 650px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-green">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>34</span></div>
+                <div class="text-center player-vote"><span>34</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 725px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-green">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>55</span></div>
+                <div class="text-center player-vote"><span>55</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 800px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-green">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>89</span></div>
+                <div class="text-center player-vote"><span>89</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 875px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-yellow">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>?</span></div>
+                <div class="text-center player-vote"><span>?</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-rig card-in-hand" style="left: 950px;">
+        <div class="card-wrapper perspective-wrapper">
+          <div class="animation-wrapper" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="card-container rotate face-up card-light-grey">
+              <div class="card card-back"></div>
+              <div class="card card-face">
+                <div class="small-card-id"><span>Pass</span></div>
+                <div class="text-center player-vote"><span>Pass</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="game-sidebar col-md-3">
+  <h3>User Story</h3>
+  <textarea class="col-md-12"></textarea>
+  <button>Save</button>
+  <br />
+  <br />
+  <h4>Velocity</h4>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>User Story</th>
+        <th>Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">1</th>
+        <td>User Story 1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>User Story 1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td>User Story 1</td>
+        <td>3</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

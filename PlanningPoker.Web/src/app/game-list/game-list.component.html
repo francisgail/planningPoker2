@@ -1,0 +1,29 @@
+<div class="container">
+  <div class="row card-container">
+    <div class="col-sm-6 col-md-4 col-lg-3" *ngFor="let game of games; index as gameIndex;">
+      <div class="card">
+        <div class="card-header">
+          <a [routerLink]="['/join']" class="white">
+            {{gameIndex+1}}: {{game.tag}}
+          </a>
+        </div>
+        <div class="card-body">
+          <div class="clearfix">
+            <div class="pull-left card-body-left">
+              <a href="#" class="white">
+                <img src="/assets/images/people.png" class="card-image" />
+              </a>
+            </div>
+            <div class="pull-left card-body-right">
+              <div class="card-body-content">{{game.moderator}}</div>
+              <a [routerLink]="['/join']">Join</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div *ngIf="!games.length">
+      No Records Found
+    </div>
+  </div>
+</div>

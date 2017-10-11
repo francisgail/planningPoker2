@@ -1,0 +1,85 @@
+<h1>{{title}}</h1>
+<nav>
+  <a routerLink="/createGame">Create Game</a>
+  <a routerLink="/joinGame">Join Game</a>
+</nav>
+<router-outlet></router-outlet>
+
+<div>
+  <label>Game name:</label> <input #gameName />
+  <label>Moderator:</label> <input #moderator />
+  <button (click)="createGame(gameName.value, moderator.value); gameName.value=''; moderator.value=''">
+    Create Game
+  </button>
+ 
+  <br>
+  <label>Game:</label> <input #game />
+  <button (click)="startGame(game.value); game.value=''">
+    Start Game
+  </button>
+ 
+  <br>
+  <button (click)="getGames();">
+    Get Games
+  </button>
+ 
+  <br>
+  <label>Game:</label> <input #endGameInput />
+  <button (click)="endGame(endGameInput.value); endGameInput.value=''">
+    End Game
+  </button>
+<br>
+  <label>Player:</label> <input #playerName />
+  <label>Game:</label> <input #joinPlayerGame />
+  <button (click)="joinGame(playerName.value, joinPlayerGame.value); playerName.value=''; joinPlayerGame.value=''">
+    Join Game
+  </button>
+<br>
+  <label>Game:</label> <input #getPlayersGame />
+  <button (click)="getPlayers(getPlayersGame.value); getPlayersGame.value=''">
+    Get Players
+  </button>
+  <br>
+  <label>Player Object:</label> <input #leaveGameInput />
+  <button (click)="leaveGame(leaveGameInput.value); leaveGameInput.value=''">
+    Leave Game
+  </button>
+
+  <br>
+  <label>Short Overview:</label> <input #shortOverview />
+  <label>Title:</label> <input #title />
+  <label>Game Object:</label> <input #createStoryGameInput />
+  <button (click)="createUserStory(shortOverview.value, title.value, createStoryGameInput.value); shortOverview.value=''; title.value='';createStoryGameInput.value=''">
+    Create User Story
+  </button>
+
+  <br>
+  <label>User Story Object:</label> <input #completeStory />
+  <button (click)="setPlanningComplete(completeStory.value); completeStory.value=''">
+    Set Planning Complete
+  </button>
+
+  <br>
+  <label>User Story Object:</label> <input #cancelStory />
+  <button (click)="setPlanningCancelled(cancelStory.value); completeStory.value=''">
+    Set Planning Cancelled
+  </button>
+
+  <br>
+  <label>User Story Object:</label> <input #selectCardUserStory />
+  <label>Player Object:</label> <input #selectCardPlayer />
+  <label>Card Value:</label> <input #cardValue />
+  <button (click)="selectCard(selectCardUserStory.value, selectCardPlayer.value, cardValue.value); 
+  selectCardUserStory.value='';selectCardPlayer.value='';cardValue.value=''">
+    Select Card
+  </button>
+
+  <br>
+  <label>User Story Object:</label> <input #playerCardUserStory />
+  <button (click)="getPlayerCards(playerCardUserStory.value); playerCardUserStory.value=''">
+    Get Player Cards
+  </button>
+
+</div>
+
+

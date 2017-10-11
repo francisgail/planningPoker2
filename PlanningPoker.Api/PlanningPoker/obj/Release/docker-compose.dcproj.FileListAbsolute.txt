@@ -1,0 +1,2 @@
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
+C:\PlanningPoker\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache

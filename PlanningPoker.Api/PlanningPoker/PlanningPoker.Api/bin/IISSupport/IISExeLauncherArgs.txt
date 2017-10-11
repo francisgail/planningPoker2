@@ -1,0 +1,8 @@
+-p C:\Program Files\dotnet\dotnet.exe
+-pidFile C:\PlanningPoker.Api\PlanningPoker\PlanningPoker.Api\bin\IISSupport\pidfile.txt
+-wd C:\PlanningPoker.Api\PlanningPoker\PlanningPoker.Api
+-a exec "C:\PlanningPoker.Api\PlanningPoker\PlanningPoker.Api\bin\Debug\netcoreapp2.0\PlanningPoker.Api.dll"
+-pipe f978442f-74d7-46fd-ae16-59b4eb2b3b17
+-pr PlanningPoker.Api
+-owningPid 12468
+-env ASPNETCORE_CONTENTROOT=C:\PlanningPoker.Api\PlanningPoker\PlanningPoker.Api|ASPNETCORE_HOSTINGSTARTUPASSEMBLIES=Microsoft.AspNetCore.ApplicationInsights.HostingStartup|ASPNETCORE_ENVIRONMENT=Development|COMPLUS_ForceENC=1|

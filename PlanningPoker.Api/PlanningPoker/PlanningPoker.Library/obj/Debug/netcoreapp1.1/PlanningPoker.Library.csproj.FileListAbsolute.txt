@@ -1,0 +1,10 @@
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\bin\Debug\netcoreapp1.1\PlanningPoker.Library.deps.json
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\bin\Debug\netcoreapp1.1\PlanningPoker.Library.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\bin\Debug\netcoreapp1.1\PlanningPoker.Library.pdb
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\obj\Debug\netcoreapp1.1\PlanningPoker.Library.csproj.CoreCompileInputs.cache
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\obj\Debug\netcoreapp1.1\PlanningPoker.Library.AssemblyInfo.cs
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\obj\Debug\netcoreapp1.1\PlanningPoker.Library.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\obj\Debug\netcoreapp1.1\PlanningPoker.Library.pdb
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\bin\Debug\netcoreapp1.1\PlanningPoker.DataAccess.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\bin\Debug\netcoreapp1.1\PlanningPoker.DataAccess.pdb
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.Library\obj\Debug\netcoreapp1.1\PlanningPoker.Library.csprojResolveAssemblyReference.cache

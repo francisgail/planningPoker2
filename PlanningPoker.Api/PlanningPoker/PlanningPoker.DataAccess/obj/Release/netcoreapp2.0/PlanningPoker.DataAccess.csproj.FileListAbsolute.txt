@@ -1,0 +1,18 @@
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.deps.json
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.pdb
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.AssemblyInfo.cs
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.dll
+C:\Users\fpena\Documents\Visual Studio 2017\Projects\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.pdb
+C:\PlanningPoker\PlanningPoker.DataAccess\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.deps.json
+C:\PlanningPoker\PlanningPoker.DataAccess\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.dll
+C:\PlanningPoker\PlanningPoker.DataAccess\bin\Release\netcoreapp2.0\PlanningPoker.DataAccess.pdb
+C:\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.csprojResolveAssemblyReference.cache
+C:\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.csproj.CoreCompileInputs.cache
+C:\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.AssemblyInfoInputs.cache
+C:\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.AssemblyInfo.cs
+C:\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.dll
+C:\PlanningPoker\PlanningPoker.DataAccess\obj\Release\netcoreapp2.0\PlanningPoker.DataAccess.pdb
